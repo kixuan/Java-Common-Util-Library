@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 删除请求
- * 
+ * @author 醒酒器
  */
 @Data
 public class DeleteRequest implements Serializable {
